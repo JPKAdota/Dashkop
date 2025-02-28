@@ -1,3 +1,4 @@
-plotly
-openxls
+streamlit
 pandas
+openpyxl
+plotly
